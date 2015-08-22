@@ -1,0 +1,73 @@
+﻿Build started 12/14/2012 2:54:38 PM.
+     1>Project "C:\Users\Shaun\Desktop\jdmarshall.Hmwk5\Hmwk.5.Assignment.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Hmwk.5.Assignment.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Block.cpp Bullet.cpp engine.cpp GameObject.cpp gui.cpp hmwk.5.cpp MegaMan.cpp timer.cpp
+         timer.cpp
+         MegaMan.cpp
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(22): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(23): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\megaman.cpp(96): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\megaman.cpp(139): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\megaman.cpp(172): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+         hmwk.5.cpp
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(22): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(23): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+         gui.cpp
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(22): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(23): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(46): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(189): warning C4305: 'initializing' : truncation from 'int' to 'Uint8'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(189): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(189): warning C4305: 'initializing' : truncation from 'int' to 'Uint8'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(189): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(189): warning C4305: 'initializing' : truncation from 'int' to 'Uint8'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(189): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(193): warning C4305: 'argument' : truncation from 'int' to 'const Uint8'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(193): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(193): warning C4305: 'argument' : truncation from 'int' to 'const Uint8'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(193): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(193): warning C4305: 'argument' : truncation from 'int' to 'const Uint8'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(193): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gui.cpp(196): warning C4018: '<' : signed/unsigned mismatch
+         GameObject.cpp
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(22): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(23): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gameobject.cpp(12): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\gameobject.cpp(45): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         engine.cpp
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(22): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(23): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+         Bullet.cpp
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(22): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(23): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\bullet.cpp(13): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\bullet.cpp(14): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\bullet.cpp(28): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\bullet.cpp(45): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Block.cpp
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(22): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\shaun\desktop\jdmarshall.hmwk5\constants.h(23): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shaun\Desktop\jdmarshall.Hmwk5\Debug\Hmwk.5.Assignment.exe" /NOLOGO SDL.lib SDLmain.lib SDL_image.lib SDL_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Hmwk.5.Assignment.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Shaun\Desktop\jdmarshall.Hmwk5\Debug\Hmwk.5.Assignment.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shaun\Desktop\jdmarshall.Hmwk5\Debug\Hmwk.5.Assignment.lib" /MACHINE:X86 Debug\Block.obj
+         Debug\Bullet.obj
+         Debug\engine.obj
+         Debug\GameObject.obj
+         Debug\gui.obj
+         Debug\hmwk.5.obj
+         Debug\MegaMan.obj
+         Debug\timer.obj
+         LINK : C:\Users\Shaun\Desktop\jdmarshall.Hmwk5\Debug\Hmwk.5.Assignment.exe not found or not built by the last incremental link; performing full link
+         Hmwk.5.Assignment.vcxproj -> C:\Users\Shaun\Desktop\jdmarshall.Hmwk5\Debug\Hmwk.5.Assignment.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Shaun\Desktop\jdmarshall.Hmwk5\Debug\Hmwk.5.Assignment.exe;#1" /manifest Debug\Hmwk.5.Assignment.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Hmwk.5.Assignment.unsuccessfulbuild".
+         Touching "Debug\Hmwk.5.Assignment.lastbuildstate".
+     1>Done Building Project "C:\Users\Shaun\Desktop\jdmarshall.Hmwk5\Hmwk.5.Assignment.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.80
